@@ -122,7 +122,7 @@ public class Facebook {
                                 post[2].showComment();
                             }
                             case '4' -> {
-                                System.out.println("Link Copied: " + post[2].link);
+                                System.out.println("Link Tersalin: " + post[2].link);
                             }
                             default -> {
                             }
