@@ -5,10 +5,10 @@ Djikstra Algorithm yang mencermintkan korelasi antara pertemanan dalam facebok
 
 buat data matrix
 
-          likes     comment   	share
+                    likes               comment   	          share
 John 		4		101			8
 Rudi		2		302			10
-Shinta	50		430 			45
+Shinta	          50		430 			45
 Dodi		8		106			9
 
 Implementasinya yakni : 
